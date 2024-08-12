@@ -1,4 +1,4 @@
-# Example app for CI Hexlet course
+# Example app for CI Hexlet course   [![start-project](https://github.com/Konstantin-Gromakovskiy/hexlet-ci-app/actions/workflows/start.yml/badge.svg)](https://github.com/Konstantin-Gromakovskiy/hexlet-ci-app/actions/workflows/start.yml)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
